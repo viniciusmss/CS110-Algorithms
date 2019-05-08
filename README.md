@@ -1,0 +1,4 @@
+# CS110: Computation: Solving Problems with Algorithms.
+Selected assignments and coding exercises from the class CS110: Computation: Solving Problems with Algorithms. The notebooks may contain terms or concepts that targeted the description of the assignment or Minerva's grading structure. Such sections should not prevent the reader from understanding the code structure.
+
+For the most involved example, refer to [Traffic Simulation](https://github.com/viniciusmss/CS110-Algorithms/blob/master/Traffic%20Simulation.ipynb) and its accompanying [report](https://github.com/viniciusmss/CS110-Algorithms/blob/master/Traffic%20Simulation.pdf). [Longest Common Substring - Genetic Heritage](https://github.com/viniciusmss/CS110-Algorithms/blob/master/Longest%20Common%20Substring%20-%20Genetic%20Heritage.ipynb) is an interesting application of LCS to genetic heritage and combines algorithmic implementation with applied analysis.
